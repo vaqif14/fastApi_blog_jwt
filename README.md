@@ -1,6 +1,6 @@
-# Securing FastAPI with JWT Token-based Authentication
+#  FastAPI with JWT Token-based Authentication
 
-## Want to use this project?
+## Steps
 
 1. Clone
 
